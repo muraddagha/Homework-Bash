@@ -38,7 +38,7 @@ function erase() {
   }
 }
 function final() {
-  currentText = "git bash Murad ";
+  currentText = "git bash Murad bjbjbj :D ";
   letter = currentText.slice(0, ++index);
   index++;
   typing.textContent = letter;
